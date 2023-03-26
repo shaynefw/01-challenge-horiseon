@@ -1,4 +1,4 @@
-# Horiseon
+# VibrantSynergy
 
 ## Description
 
