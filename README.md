@@ -2,7 +2,7 @@
 
 ## Description
 
-This website was made to demonstrate the students programming ability to implement semantic HTML elements, and accessible alt attributes. The "alt" attribute is used to provide alternative text for images, and the "semantic" tags are used to provide additional meaning to the structure of the content on a web page. The alt text is important for accessibility, as it is read by screen readers to describe the image to visually impaired users. The semantic tags, such as "header", "nav", "main", "article", "section", and "footer", provide additional information about the structure and organization of the content, which can improve accessibility and search engine optimization.
+This website was made to demonstrate the students programming ability to implement semantic HTML elements, and accessible alt attributes. The "alt" attribute is used to provide alternative text for images, and the "semantic" tags are used to provide additional meaning to the structure of the content on a web page. The alt text is important for accessibility, as it is read by screen readers to describe the image to visually impaired users. The semantic tags, such as "header", "nav", "main", "article", "section", and "footer", provide additional information about the structure and organization of the content, which can improve accessibility and search engine optimizations.
 
 ## Table of Contents
 
